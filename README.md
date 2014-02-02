@@ -26,3 +26,5 @@ An initiative by [Free software Movement Karnataka](http://fsmk.org/), this proj
 6. Create new [Pull Request](https://help.github.com/articles/using-pull-requests).
 7. Summarize the contribution and keep it open until the contribution is complete. This is so that others know what you're working on.
 8. Once completed, comment so and ask the admin to review the code.
+
+Please consider the [template](Templates/Template.md) while making the contribution.
