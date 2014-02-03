@@ -18,8 +18,13 @@ An initiative by [Free software Movement Karnataka](http://fsmk.org/), this proj
 # Contributing
 
 1. [Fork it](https://github.com/fsmk/CS-VTU-Lab-Manual/fork)
-2. Please check the appropriate University/Semester/Subject.
+2. Check if the subject is already being worked on by somebody (Open Pull Requests list)
+3. Please check the appropriate University/Semester/Subject.
    If the Subject is not present then add that particular folder in that semester.
-3. Update the syllabus.md file present in that subject folder, if not present please add it.
-4. Check the Syllabus.md file if the program is being added or not. It can be checked by seeing whether their is link to the program file in the 	directory or not.
-5. Create new [Pull Request](https://help.github.com/articles/using-pull-requests).
+4. Update the syllabus.md file present in that subject folder, if not present please add it.
+5. Check the Syllabus.md file if the program is being added or not. It can be checked by seeing whether their is link to the program file in the 	directory or not.
+6. Create new [Pull Request](https://help.github.com/articles/using-pull-requests).
+7. Summarize the contribution and keep it open until the contribution is complete. This is so that others know what you're working on.
+8. Once completed, comment so and ask the admin to review the code.
+
+Please consider the [template](Templates/Template.md) while making the contribution.
